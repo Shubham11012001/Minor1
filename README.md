@@ -2,13 +2,13 @@
 Look Book a book giveawaying system
 
 template-courtesy- Colourlib.com
-if you need python3 for running this project.
+you need python3 for running this project.
 it is purely made on Django3.0
-It is all for educational purpose.
+It is developed only for educational purpose.
 
-and i commit aside of template all the work on backend is done by our team. Some codes are inspired from youtube video tutorials
+And i commit aside of template all the work on backend is done by our team. Some codes are inspired from youtube video tutorials
 after cloning the repositry:
- you need to run following commands:
+you need to run following commands:
  
  for linux:
  pip3 installl django
